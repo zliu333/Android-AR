@@ -5,5 +5,5 @@ The backend web service annotates the uploaded image using Google Cloud Vision O
 The AndroidApp folder is the Android app using AndroidStudio.  
 The Service folder is the cloud OCR service using Eclipse.
 
-Here are the screenshots of the app showing the uploaded image and the transcribed text respectively.
-![Selected photo](Image.png "Selected photo") ![Transcribed text](Result.png "Transcribed text")
+Here are the screenshots of the app showing the uploaded image and the transcribed text respectively.  
+![Selected photo](image.png "Selected photo") ![Transcribed text](result.png "Transcribed text")
